@@ -1,3 +1,3 @@
 # Python
 Coding Python
-Will be addind more python codes
+Will be adding more python codes
